@@ -6,7 +6,6 @@ import "@paulrberg/contracts/token/erc20/SafeErc20.sol";
 import "../scripts/BatterseaScriptsV1Interface.sol";
 import "../FyTokenInterface.sol";
 import "../external/balancer/ExchangeProxyInterface.sol";
-import "../external/balancer/TokenInterface.sol";
 
 /**
  * @title IsolatedSellUnderlyingAndRepayBorrow
